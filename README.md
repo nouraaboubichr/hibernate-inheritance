@@ -181,8 +181,13 @@ Ou directement dans l'IDE : clic droit sur `App.java` → **Run**.
 
 ## Ce que fait `App.java`
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 001740.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 093749.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 001747.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 093758.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 001754.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 093815.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 093835.png" />
+
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-09-30 093843.png" />
+
